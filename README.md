@@ -1,2 +1,2 @@
 # Argonaut
-This repository contains the code for argonaut method in argoverse 2 scenario mining challenge
+Expected code release in August 2026.
